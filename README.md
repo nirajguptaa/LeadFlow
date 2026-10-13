@@ -6,7 +6,6 @@ Built for the Pravar AI assignment. **Stack:** Next.js 14 (TypeScript) + FastAPI
 
 ## Screenshots
 
-## Screenshots
 
 ### Home Page
 ![Home Page](screenshots/HomePage.png)
